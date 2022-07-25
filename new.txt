@@ -1,3 +1,4 @@
 Hello world!
 Second line
 Today 25.07.2022
+This is test git commit -a -m
